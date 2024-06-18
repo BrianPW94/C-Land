@@ -38,6 +38,7 @@ a{text-decoration: none;}
   max-width: 1300px;
   overflow: auto ;
   padding: 0 20px;
+  flex-wrap: wrap;
 }
 
 .large{
