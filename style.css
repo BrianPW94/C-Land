@@ -325,3 +325,17 @@ font-size: 20px;
 #mainfooter img{
   width: 1%;
 }
+
+.seccion{
+	 background: url('fondo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.pie{
+	 background: url('fondo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
